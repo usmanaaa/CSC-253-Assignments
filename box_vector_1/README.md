@@ -2,7 +2,7 @@
 
 ## Organization
 
-All project code is in `./src/lib.rs`
+All project code is in `./src/lib.rs`.
 
 Specifically, `BoxVec` and its methods are implemented at the top of `lib.rs`.
 
